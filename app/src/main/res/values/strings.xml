@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Reto1</string>
+    <string name="input_name">Nombre de usuario</string>
+    <string name="input_password">Contraseña</string>
+    <string name="btn_ingresar">Ingresar</string>
+    <string name="btn_home">Home</string>
+    <string name="btn_plus">Añadir</string>
+    <string name="btn_profile">Perfil</string>
+    <string name="titulo_status">Pública un estado</string>
+    <string name="subtitulo_status">Escoge una foto</string>
+    <string name="input_status">Escribe un estado para tu foto</string>
+    <string name="publicar_btn">Publicar</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cerrarsesion">Cerrar sesión</string>
+
+    <string-array name="ciudades">
+        <item>Cali</item>
+        <item>Medellin</item>
+        <item>Bogotá</item>
+        <item>Armenia</item>
+        <item>Barranquilla</item>
+    </string-array>
+</resources>
